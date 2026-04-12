@@ -49,15 +49,6 @@ The platform is designed for:
 2. Open the model script in the `Model_Training` folder  
 3. Run the script to analyze game comments
 
-## Team Members:
-- Malak Talal Basloom
-- Nora Saleh Alkhudair
-- Rathath Hassan Bin Rakan
-- Hatoon Jomaan Alghamdi
-
-## Supervisor:
-Dr. Rana Almurshed 
-
 
 ## Conclusion
 Dir’a transforms scattered user data into structured insights using AI, enabling early detection of harmful gaming environments. The platform supports safer digital experiences by shifting from reactive monitoring to proactive risk detection.
