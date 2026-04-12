@@ -50,10 +50,10 @@ The platform is designed for:
 3. Run the script to analyze game comments
 
 ## Team Members:
-Malak Talal Basloom
-Rathath Hassan Bin Rakan
-Nora Saleh Alkhudair
-Hatoon Jomaan Alghamdi
+- Malak Talal Basloom
+- Nora Saleh Alkhudair
+- Rathath Hassan Bin Rakan
+- Hatoon Jomaan Alghamdi
 
 ## Supervisor:
 Dr. Rana Almurshed 
