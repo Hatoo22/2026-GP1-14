@@ -1,4 +1,4 @@
-Since the files size very large here is the models Fine-tuning provided in google drive:
+Since the files size very large here is the models Fine-tuning in collab link:
 
 ModrenBERT(The choosen model): https://colab.research.google.com/gist/norasaleh1/38cebc299caf23f289bd2a36cc232b60/modernbert.ipynb
 
